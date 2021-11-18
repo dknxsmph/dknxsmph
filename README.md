@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> D K N  X S M P H 👋👋
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> D K N  X S M P H <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dknxsmph&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dknxsmph&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
